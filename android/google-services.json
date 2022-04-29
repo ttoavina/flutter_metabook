@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729913612990",
+    "project_id": "quora-clone-3b7d7",
+    "storage_bucket": "quora-clone-3b7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729913612990:android:54cbf8d8117427ab235cef",
+        "android_client_info": {
+          "package_name": "com.metaap.fbplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729913612990-oqmm6j9v1i556femk6klbcgvo87qkt6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrAeF6Tn7NeIPTDpMI9J3AMVTdcg6Oi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729913612990-oqmm6j9v1i556femk6klbcgvo87qkt6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
